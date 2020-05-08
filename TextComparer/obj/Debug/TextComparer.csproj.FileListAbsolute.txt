@@ -1,0 +1,13 @@
+C:\Users\13SpiceMachine37\source\repos\TextComparer\TextComparer\bin\Debug\TextComparer.exe.config
+C:\Users\13SpiceMachine37\source\repos\TextComparer\TextComparer\bin\Debug\TextComparer.exe
+C:\Users\13SpiceMachine37\source\repos\TextComparer\TextComparer\bin\Debug\TextComparer.pdb
+C:\Users\13SpiceMachine37\source\repos\TextComparer\TextComparer\obj\Debug\TextComparer.csprojAssemblyReference.cache
+C:\Users\13SpiceMachine37\source\repos\TextComparer\TextComparer\obj\Debug\TextComparer.csproj.CoreCompileInputs.cache
+C:\Users\13SpiceMachine37\source\repos\TextComparer\TextComparer\obj\Debug\TextComparer.exe
+C:\Users\13SpiceMachine37\source\repos\TextComparer\TextComparer\obj\Debug\TextComparer.pdb
+C:\Users\1337\Desktop\TextComparer\TextComparer\bin\Debug\TextComparer.exe.config
+C:\Users\1337\Desktop\TextComparer\TextComparer\bin\Debug\TextComparer.exe
+C:\Users\1337\Desktop\TextComparer\TextComparer\bin\Debug\TextComparer.pdb
+C:\Users\1337\Desktop\TextComparer\TextComparer\obj\Debug\TextComparer.csprojAssemblyReference.cache
+C:\Users\1337\Desktop\TextComparer\TextComparer\obj\Debug\TextComparer.exe
+C:\Users\1337\Desktop\TextComparer\TextComparer\obj\Debug\TextComparer.pdb
